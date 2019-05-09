@@ -1,2 +1,2 @@
 # FaceRecognition
-This is Node Server Face Recognition APP
+This is the Face Recognition APP
