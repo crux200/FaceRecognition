@@ -15,7 +15,7 @@ const Clarifai = require('clarifai');
 // initialize with your api key. This will also work in your browser via http://browserify.org/
 
 const app = new Clarifai.App({
- apiKey: 'ce0f307de6e14ad895d59575368fa350'
+ apiKey: <your api here>>
 });
 
 const particlesOptions={
